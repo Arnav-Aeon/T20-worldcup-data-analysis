@@ -3,4 +3,4 @@ A Power BI report to identify the top 11 players for a T20 cricket team. Data wa
 
 
 ## Data Collection
-The data has been collected from [https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450](#ESPNcricinfo)
+The data has been collected from [ESPNcricinfo](#https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450)
