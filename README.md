@@ -79,10 +79,10 @@ This project involves creating a Power BI report to identify the top 11 players 
 
 ---
 
-![Dashboard1](dashboardimg/Screenshot 2024-12-01 115830.png)
+[Dashboard1](dashboardimg/Screenshot 2024-12-01 115830.png)
 
 ---
 
-![Dashboard2](dashboardimg/Screenshot 2024-12-01 115837.png)
+[Dashboard2](dashboardimg/Screenshot 2024-12-01 115837.png)
 
 ---
