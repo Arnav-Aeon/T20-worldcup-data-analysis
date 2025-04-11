@@ -71,10 +71,10 @@ This project involves creating a Power BI report to identify the top 11 players 
 
 ## **Final Dashboard**
 
-![Dashboard1](https://cdn.discordapp.com/attachments/1193475221114601473/1312671455967842356/Screenshot_2024-12-01_115830.png?ex=674d580f&is=674c068f&hm=a9a655c2bc10adcacfd81c54b17b2873b0930062f881e53b6791f22eaa292a84&)
+![Dashboard1]([https://cdn.discordapp.com/attachments/1193475221114601473/1312671455967842356/Screenshot_2024-12-01_115830.png?ex=674d580f&is=674c068f&hm=a9a655c2bc10adcacfd81c54b17b2873b0930062f881e53b6791f22eaa292a84&](https://drive.google.com/file/d/1xUZ5fH53whwciiyjZ-rihe8ZTotmv2ty/view?usp=sharing))
 
 ---
 
-![Dashboard2](https://cdn.discordapp.com/attachments/1193475221114601473/1312671456395526214/Screenshot_2024-12-01_115837.png?ex=674d580f&is=674c068f&hm=8b9404df096e243ad41b8c675c042c322597dc71c2144a1c30b54ea82c6ce53a&)
+![Dashboard2]([https://cdn.discordapp.com/attachments/1193475221114601473/1312671456395526214/Screenshot_2024-12-01_115837.png?ex=674d580f&is=674c068f&hm=8b9404df096e243ad41b8c675c042c322597dc71c2144a1c30b54ea82c6ce53a&](https://drive.google.com/file/d/1tOsisG79NnTldNXw4-j2UYgv-cAPNDCL/view?usp=sharing))
 
 ---
